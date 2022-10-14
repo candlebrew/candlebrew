@@ -1,4 +1,5 @@
 Hello, all. I'm Kendall (they/them), @candlebrew
+(And hello in particular to my current Script Programming classmates & professor!)
 
 I'm a programmer, student, and writer with many varied interests. I've been "programming" since 2010 by using ChoiceScript and utilizing it to create procedural generators in order to aid my writing by being able to generate random NPCs and names in alien languages. I moved on to RenPy and Python in January 2016, as well as learning HTML, Javascript, and CSS along the way, then transferred my skills from ChoiceScript to Python for more procedural generation, before now where I am currently focusing on Discord bot development and Postgres supplementing my studies.
 
