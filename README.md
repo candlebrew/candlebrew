@@ -4,4 +4,6 @@ I'm a programmer, student, and writer with many varied interests. I've been "pro
 
 Outside of programming, I like tabletop RPGs and would like to one day own my own game publishing company (both video games & tabletop). I am writing my own RPG system which I hope to publish 2023. I also like video games, reading, music composition (I play Kalimba & Lyre), and language learning. I am currently studying Japanese (I am JLPT N5), Dutch, and Hebrew.
 
+In the meantime, I'm attending UCO for Psychology and will be attending Texas State for my master's in Counseling. I want to one day work with clients with disabilities such as Autism and ADHD and develop software and apps to help people with disabilities, as well as tools to assist psychologists in diagnosing their clients.
+
 [See where else I am](https://candlebrew.carrd.co/)
